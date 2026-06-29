@@ -1,0 +1,11 @@
+{
+  "name": "Samved AI: Hyperlocal Problem Solver",
+  "description": "An AI-powered citizen platform to report, analyze, prioritize, and route community issues like potholes, garbage, and broken streetlights.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
